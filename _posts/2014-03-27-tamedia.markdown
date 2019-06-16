@@ -1,0 +1,85 @@
+---
+layout: post
+title: "Exkursion zur Redaktion des Tages-Anzeigers und zum Druckzentrum Zürich"
+date: 2014-03-06 00:00:00
+categories: excursion
+---
+
+Dieses Semester war meine Strategie beim ECTS-Kreditpunkte sammeln: viele kleine Vorlesungen, die wenig Punkte bringen,
+um viele verschiedene Themen zu erleben. Dies hat sich gelohnt; so war ich letzten Freitag mit der Vorlesung
+“Medienproduktion, Mediennutzung, Medienwirkung” zu Besuch bei zwei Abteilungen der [Tamedia
+AG](http://de.wikipedia.org/wiki/Tamedia): erst bei der Redaktion des
+[Tages-Anzeigers](http://de.wikipedia.org/wiki/Tages-Anzeiger), dann beim [Druckzentrum
+Zürich](http://www.zeitungsdruck.ch/druckzentrum-zuerich.html).
+
+Das neue Gebäude von Tamedia in der Werdstrasse an der Sihl beeindruckt einen schon beim Betreten. In Zürich ist
+Wohnraum teuer, wenn ich bei der Stadt arbeiten würde hätte ich jetzt nicht unbedingt eine Eingangshalle genehmigt, die
+so hoch ist wie das ganze Gebäude. Designer war Stararchitekt [Shigeru Ban](http://de.wikipedia.org/wiki/Shigeru_Ban),
+bekannt durch seine Konstruktionen aus Kartonröhren (wie dicke, lange Klopapierrollen) für Katastrophengebiete bekannt,
+die sich schnell und günstig errichten lassen. Respekt für diesen humanitären Einsatz.
+
+Auf der Etage des Tages-Anzeigers erzählte der Chefredakteur, wie ein Arbeitstag in der Redaktion so abläuft.
+Interessant: zwei mal am Tag treffen sich Journalisten aus den jeweiligen Resorts mit dem Chefredakteur und präsentieren
+ihre Ideen für den Tag. Es ist aber alleine die Entscheidung des Chefredakteurs, welche Artikel aufgenommen werden! Ich
+habe mir die Prozedur irgendwie weniger hirarchisch vorgestellt. Aber das ist schliesslich nur einer von vielen
+Flaschenhälsen, durch die Informationen bis zum “Rezipienten” gelangen. Rezipienten, das sind im Fachjargon die Leser,
+Wenn von “Kunden” die Rede war, waren implizit immer die Mieter der Werbeflächen gemeint. Die Werbeeinnahmen machen
+schliesslich die Hälfte der Einnahmen aus, laut unserer Führerin. Unser Professor legte uns jedoch nahe, dass dieses
+Verhältnis wahrschienlich weiter zu den Werbeeinnahmen verschoben ist.
+
+{% include image.html
+            img="../images/posts/2014-03-27-tamedia/IMG_0098-624x468.jpg"
+            url="../images/posts/2014-03-27-tamedia/IMG_0098.jpg"
+            title="Die Büroetage des Tagi"
+            caption="Die Büroetage des “Tagi”: neues Gebäude, Rechner laufen alle auf Windows XP" %}
+
+Nach der Führung warteten wir noch im Erdgeschoss auf die zweite Gruppe. Mittlerweile war es acht Uhr, aber in den
+Büros war noch Betrieb. Laute Musik und junge Damen auf Stöckelschuhen, die die Redaktion der “Anabelle” verliessen,
+liessen daruaf schliessen, dass dort noch Fotoshootings für die nächste Ausgabe der Frauenzeitschrift gemacht werden.
+Alle Jungs in unserer Gruppe (zwei) waren sich einig: da wollen wir auch noch kurz rein. Durften wir aber nicht.
+
+War nicht schlimm. Eine Führung um halb neun am Freitag Abend durch das Druckzentrum ist auch super. Die erste Halle,
+die wir betraten, beherbergte eine Art Achterbahn für Zeitungen, denn verschiedene Zeitungen und Magazine werden
+gleichzeitig gedruckt, und hier blitzschnell sortiert.
+
+{% include image.html
+            img="../images/posts/2014-03-27-tamedia/IMG_0105.jpg"
+            url="../images/posts/2014-03-27-tamedia/IMG_0105.jpg"
+            title="Zeitungssortierer"
+            caption='Zeitungen werden in diesen riesigen Rollen transportiert. Einen kleinen Systemfehler gab es aber:
+            an jeder Rolle klebte ein Zettel mit “Stückzahl: 0”.' %}
+
+Die Leute die hier arbeiten, heissen von Beruf einfach “Drucker”, und ihre Aufgaben haben sich mit dem Aufkommen des
+sogenannten Flachdrucks, der hier betrieben wird, stark verändert. Das Setzen jeder einzelnen Zeile in Blei ist nun
+nicht mehr nötig, aber ein Brauch wurde aus der Buchdruckerzeit übernommen: das
+[Gautschen](http://www.brauchwiki.de/Gautschen). Die Absolventen der Lehre werden mit Wasser übergossen und es werden
+Gedichte vorgelesen. Heutzutage werden die Absolventen einfach gefesselt und ein LKW kippt eine Ladung Wasser drüber.
+Hat uns ein alter Drucker erzählt.
+
+{% include image.html
+            img="../images/posts/2014-03-27-tamedia/IMG_0116.jpg"
+            url="../images/posts/2014-03-27-tamedia/IMG_0116.jpg"
+            title="Drucken"
+            caption='So sieht die Zeitung in der Druckmaschine aus. Der Druck setzt sich aus vier Farben zusammen:
+            schwarz, gelb, megentha und blau.' %}
+
+Danach durften wir uns einmal wie in der “Sendung mit der Maus” fühlen: die Druckermaschine im Betrieb betreten. Es war
+ja mittlerweile schon halb zehn, und Zeitungen werden natürlich vor allen nachts gedruckt. Leider war der Betrieb aber
+nur von kurzer Dauer: eine Papierbahn ist gerissen. Ich habe damit aber nichts zu tun. Ausserdem ist das völlig normal,
+passiert ca. zwei mal jeden Abend, erzählte uns eine Druckerin. Als Drucker muss man übrigens gute Augen für Farben
+haben, denn diese müssen kompromisslos perfekt sein. Dies ist dem Leser vielleicht nicht wichtig, aber den eigentlichen
+Kunden (Siehe oben). Im hart umkämpften Werbemarkt kann man sich schon solche Fehler nicht leisten: sind die Farben
+nicht perfekt, wird neu gemischt und der Druck muss nochmal von vorne beginnen.
+
+{% include image.html
+            img="../images/posts/2014-03-27-tamedia/IMG_0118.jpg"
+            url="../images/posts/2014-03-27-tamedia/IMG_0118.jpg"
+            title="Schneiden"
+            caption='Hier werden die Zeitungen geschnitten und gefaltet. Alles vollautomatisch. Eine der weissen
+            Zeitungn, die da am Anfang des Abends zu Testzwecken aus der Maschine kommt, durfte ich als Andenken
+            mitnehmen.' %}
+
+Am Ende, um zehn, gab es noch einen kleinen Apero in der Kantine. Ich bin wirklich froh, dass ich den Tag mitgemacht
+habe; die Gelegenheit zu einer solcher Führung bekommt man sicher nicht oft. Die Vorlesung kann man also alleine
+deswegen schon empfehlen! Jedoch muss man für den einen Kreditpunkt auch noch eine dreiseitige Hausarbeit schreiben und
+im “Unterricht” mitreden.

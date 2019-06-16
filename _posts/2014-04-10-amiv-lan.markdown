@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Nacht durchgemacht auf der AMIV-LAN 2014"
+date: 2014-04-10 00:00:00
+categories: leisure
+---
+
+Vor ein paar Wochenenden war ich die Nacht von Freitag auf Samstag das erste Mal auf einer LAN-Party, die grösser war
+als eine Haus-LAN mit maximal acht Leuten: die AMIV-LAN, organisiert vom namensgebenden Verein der Maschinen- und
+Elektroingenieure an der ETH. Als Gäste ware noch die Informatiker, und wir Mathematiker und Physiker eingeladen. Hier
+ist direkt ein Foto vom Event. Es waren erstaunlich viele Leute mit Desktop da, dafür dass Laptops mittlerweile so
+leistungsfähig sind wie die Desktops aus der Zeit meiner ersten LANs. Aber vielleicht stand bei der Entschiedung “Laptop
+vs Desktop” die Geräteklasse mit den höheren Protzfaktor im Vordergrund.
+
+{% include image.html
+            img="../images/posts/2014-04-10-amiv-lan/AMIVLAN2014.jpg"
+            url="../images/posts/2014-04-10-amiv-lan/AMIVLAN2014.jpg"
+            title="AMIVLAN2014"
+            caption="" %}
+
+Prestige und Angebrei, das ist ein Aspekt der bei jedem Event mit mehreren Fachvereinen hier immer eine Rolle spielt.
+Ich weiss ja nicht, wie das bei anderen Unis ist, aber hier an der ETHZ scheinen die Fachvereine für viele so eine Art
+“softcore Verbindung” zu sein, und alle sagen immer dass die jeweils anderen Fachvereine doof sind. Genauer habe ich
+aber das Ökosystem mangels eigener Aktivität beim Fachverein nicht verstanden. Scherzhaft griff aber die einführende
+Impress-Präsentation das Thema auf: bei dieser Veranstaltung gehe es darum, welcher Fachverien den grössten “E-Penis”
+hat.
+
+Das Kräftemessen ging los mit einem “Age of Empires II”-Turnier, in Zweierteams im Fussball WM Format. Mein Team hat ein
+Spiel gewonnen und sonst nur verloren, aber der Spass war auf jeden Fall gross. Das Spiel habe ich seit ca. 8 Jahren
+nicht mehr gespielt. Im Finale gab es auch einen Kommentator, der sogar sehr gut und lustig war! Das Finale war spannend
+und unterhaltsam, der Elfjährige in mir war schwer beeindruckt von den angewandten Strategien (Schloss vor der Basis vom
+Gegner bauen und so). Gewonnen hat am Ende ein Team aus Informatikern, der Preis war eine Flasche Whisky.
+
+Pünktlich gegen Mitternacht trafen dann auch die obligatorischen “Gaffer” ein, die sich in angeheitertem Zustand über
+das Event lustig machten und wie im Zoo zuschauten mit Mottos von “Schau mal was das für Geeks sind!” über “Aus dem
+Alter bin ich schon raus aber früher hätte ich die alle fertig gemacht!” bis “Man die sehen gar nicht aus wie so
+richtige Geeks. LAAAANGWEILIG!”. Als sie auch noch anfingen unser Essen zu verdrücken, haben wir sie aber vertrieben.
+
+Der Zweite Teil der Veranstaltung war ein “Call of Duty 4”-Turnier, nach selbem Schema aber in Viererteams. Wir spielten
+den aus “Counter Strike” bekannten Modus mit den Terroristen und der Anti-Terror-Einheit, damit die CS-Fans nicht zu
+viel rumnörgeln können. Hier gewann diesmal ein Sqaud aus Elektroingenieuren. Wir vom VMP (Verein der Mathematiker und
+Physiker) holten leider keinen Whisky nach Hause.
+
+Der VMP hatte am Ende vielleicht nicht den grössten “E-Penis”, aber wir haben in einer anderen Kategorie haushoch
+gewonnen: zwei Drittel der weiblichen Teilnehmer waren vom VMP. Insgesamt waren es drei.
+
+Am Ende des Artikels noch ein paar persönlichere Endrücke. LAN-Parties werden bei mir immer weit oben auf der Liste der
+Dinge, die am meisten Spass machen stehen, aber ein Faktor ist für den Spass nochmal ganz besonders wichtig: alle müssen
+auf dem selben Level sein. Es ist ja toll, wenn so viele Leute da sind, aber wenn zwei Drittel von denen einen eh nur
+bashen und immer gewinnen kommen die Endophine nicht ganz so stark hoch. Da ist eine Haus-LAN mit Freunden, die ca. nur
+so oft zocken wie man selber doch besser. Auch ist interessant, dass für LANs eigentlich nur ältere Spiele in Frage
+kommen, da die immer noch viel Spass machen, leichter zu “beschaffen” sind und neue Spiele meistens nicht für den
+lokalen Multiplayer ausgelegt sind. Das Phänomen “LAN-Parties” hat seinen Zenit längst überschritten. Aber egal, dann
+spielt man halt die alten Spiele! Macht auf jeden Fall mehr Spass, als alleine im Kämmerlein im Internet zu zocken. Ich
+hoffe, dass unsere Kinder das noch erleben dürfen!
